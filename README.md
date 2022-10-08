@@ -1,5 +1,5 @@
 # MusicSports_AKinectGame
-________________A Kinect Game Based on Music Rhythm________________
+________________A Kinect Game Based on Rhythm________________
 
 CREATED BY UNREAL ENGINE  BluePrint***
 
